@@ -6,6 +6,8 @@ A simple, modular tool for creating and displaying development content, standard
 ## Support
 - Email: kararichardbrown@gmail.com
 
+To add to your own project copy Content/ModularGym into your own project and restart. Compatible with 5.0 - 5.8
+
 ## Features
 - Gym Section
   - Title
